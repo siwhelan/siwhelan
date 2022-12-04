@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Simon Whelan</h1>
 <h3 align="center">Python enthusiast with 25 years' experience in senior hospitality operations and management, currently enrolled in a Software Engineering Bootcamp at HyperionDev.com with an aim to enter the Software Development & Cybersecurity space. Solid understanding of object-oriented programming and skilled in a wide range of front and back-end technologies to produce and evaluate code.</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siwhelan&label=Profile%20views&color=0e75b6&style=flat" alt="siwhelan" /> </p>
 
 - 🔭 I’m currently studying at **HyperionDev.com**
 
 - 🌱 I’m currently learning **Python, Django, SQL and GIT**
 
-- 📫 How to reach me **simon@swhelan.dev**
+- 📫 How to reach me -> **simon@swhelan.dev**
 
-- ⚡ Fun fact **Digital music producer with tracks available on all major streaming platforms!**
+- ⚡ Fun fact! **Digital music producer with tracks available on all major streaming platforms!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/simon whelan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simon whelan" height="30" width="40" /></a>
+<a href="https://twitter.com/siwhelan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siwhelan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/simon-whelan-053512256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simon-whelan-053512256" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20681095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20681095" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
