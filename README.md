@@ -12,7 +12,7 @@
 - 📫 How to reach me -> **simon@swhelan.dev**
 
 - ⚡ Fun fact! **Digital music producer with tracks available on all major streaming platforms!**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
