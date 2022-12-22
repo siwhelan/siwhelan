@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Simon Whelan</h1>
+
 <h3 align="center">Python enthusiast with 25 years' experience in senior hospitality operations and management, currently enrolled in a Software Engineering Bootcamp at HyperionDev.com with an aim to enter the Software Development & Cybersecurity space. Solid understanding of object-oriented programming and skilled in a wide range of front and back-end technologies to produce and evaluate code.</h3>
 
 
