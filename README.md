@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying at **HyperionDev.com**
 
 - 🌱 I’m currently learning **Python, Django, SQL and GIT**
-- 
+
 - 🔭 I’m currently working on [Task Manager GUI](https://dev.to/siwhelan/task-manager-47jh)
 
 - 📫 How to reach me -> **simon@swhelan.dev**
