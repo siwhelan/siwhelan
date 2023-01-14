@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **Python, Django, SQL and GIT**
 
+- 📝 I regularly write articles on [dev.to](https://dev.to/siwhelan) 
+
 - 🔭 I’m currently working on [Task Manager GUI](https://dev.to/siwhelan/task-manager-47jh)
 
 - 📄 Any potential employers who have arrived here without seeing my CV first, I have a personal static website with info [here](https://siwhelan.dev/)
