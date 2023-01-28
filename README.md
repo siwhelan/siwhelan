@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Task Manager GUI](https://dev.to/siwhelan/task-manager-47jh)
 
-- 📄 Any potential employers who have arrived here without seeing my CV first, I have a personal static website with info [here](https://siwhelan.dev/)
+- 📄 Personal website - https://siwhelan.dev/
 
 - 📫 How to reach me -> **simon@swhelan.dev**
 
