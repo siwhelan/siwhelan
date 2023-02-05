@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Python, Django, SQL and GIT**
 
+- 📄 Personal website - https://siwhelan.dev/
+
 - 📝 I regularly write articles on [dev.to](https://dev.to/siwhelan) 
 
 - 🔭 I’m currently working on [Task Manager GUI](https://dev.to/siwhelan/task-manager-47jh)
-
-- 📄 Personal website - https://siwhelan.dev/
 
 - 📫 How to reach me -> **simon@swhelan.dev**
 
