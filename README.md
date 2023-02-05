@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/siwhelan) 
 
-- 🔭 I’m currently working on [Task Manager GUI](https://dev.to/siwhelan/task-manager-47jh)
+- 🔭 I’m currently working on [stockControl](https://github.com/siwhelan/stockControl)
 
 - 📫 How to reach me -> **simon@swhelan.dev**
 
