@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon Whelan</h1>
 <br>
 
-<h3 align="center">Python enthusiast with 25 years' experience in senior hospitality operations and management, recently completed a Software Engineering Bootcamp at HyperionDev.com with an aim to enter the Software Development & Cybersecurity space after 2 years of self-taught coding. Finished the 16 week course in 9 weeks, achieving a 100% average score and ranking 10th in a 300 strong class. Solid understanding of object-oriented programming and skilled in a wide range of front and back-end technologies to produce and evaluate code.</h3>
+<h3 align="center">A highly motivated and experienced professional seeking a Junior Software Engineer role. A creative problem solver constantly seeking new perspectives and innovative solutions, with an inherent ability to work efficiently and think outside the box. Skilled in OOP, demonstrated by 100% score in software engineering bootcamp and 2 years of self-taught experience. Proficient in developing and evaluating code in a wide range of front and back-end technologies.</h3>
 
 <br>
 
