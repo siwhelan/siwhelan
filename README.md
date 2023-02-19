@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Simon Whelan</h1>
 
+
+
 <h3 align="center">Python enthusiast with 25 years' experience in senior hospitality operations and management, recently completed a Software Engineering Bootcamp at HyperionDev.com with an aim to enter the Software Development & Cybersecurity space after 2 years of self-taught coding. Finished the 16 week course in 9 weeks, achieving a 100% average score and ranking 10th in a 300 strong class. Solid understanding of object-oriented programming and skilled in a wide range of front and back-end technologies to produce and evaluate code.</h3>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siwhelan&label=Profile%20views&color=0e75b6&style=flat" alt="siwhelan" /> </p>
 
 - 🔭 I’m currently studying at **HyperionDev.com**
 
-- 🌱 I’m currently learning **Python, Django, SQL and GIT**
+- 🌱 I’m currently learning **Python, Django, MongoDB and HTML**
 
 - 📄 Personal website - https://siwhelan.dev/
 
