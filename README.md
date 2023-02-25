@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simon Whelan</h1>
 <br>
 
-<h3 align="center">A highly motivated and experienced professional seeking a Junior Software Engineer role. A creative problem solver constantly seeking new perspectives and innovative solutions, with an inherent ability to work efficiently and think outside the box. Skilled in OOP, demonstrated by 100% score in software engineering bootcamp and 2 years of self-taught experience. Proficient in developing and evaluating code in a wide range of front and back-end technologies.</h3>
+<h3 align="center">A highly motivated and experienced professional seeking a Junior Software Engineer role. A creative problem solver constantly seeking new perspectives and innovative solutions, with an inherent ability to work efficiently and think outside the box. 
+<br><br>
+Skilled in OOP, demonstrated by 100% score in software engineering bootcamp and 2 years of self-taught experience. Proficient in developing and evaluating code in a wide range of front and back-end technologies.</h3>
 
 <br>
 
