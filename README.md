@@ -8,6 +8,9 @@ Skilled in OOP, demonstrated by 100% score in software engineering bootcamp and 
 
 </div>
 
+<br />
+<br />
+
 <img src="https://komarev.com/ghpvc/?username=siwhelan&label=Profile%20views&color=0e75b6&style=flat" alt="siwhelan" />
 
 - 🎓 I’m currently studying at [HyperionDev.com](https://www.hyperiondev.com/)
@@ -17,14 +20,22 @@ Skilled in OOP, demonstrated by 100% score in software engineering bootcamp and 
 - 📫 How to reach me: **simon@swhelan.dev**
 - ⚡ Fun fact: **Digital music producer with tracks available on all major streaming platforms!**
 
-### Connect with me:
-[<img align="left" alt="dev.to" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />][devto]
+<br />
+<br />
+
+### Connect/Content:
+
 [<img align="left" alt="LinkedIn" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="dev.to" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />][devto]
+[<img align="left" alt="YouTube" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 
-[devto]: https://dev.to/siwhelan
+
 [linkedin]: https://linkedin.com/in/simon-whelan-053512256
 [twitter]: https://twitter.com/siwhelan
+[devto]: https://dev.to/siwhelan
+[youtube]: https://www.youtube.com/c/si-zb7ni
+
 
 <br />
 <br />
@@ -38,7 +49,11 @@ Skilled in OOP, demonstrated by 100% score in software engineering bootcamp and 
 <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
 <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
 <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
-<img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
+<img alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" />
+<img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
+</div>
+
 
 <br />
 <br />
@@ -47,7 +62,6 @@ Skilled in OOP, demonstrated by 100% score in software engineering bootcamp and 
 
 ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwhelan&show_icons=true&theme=default)
 
-  
-<br />
-<br />
- 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siwhelan&show_icons=true&locale=en&layout=compact" alt="siwhelan" />
+</p>
