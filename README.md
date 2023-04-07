@@ -14,7 +14,6 @@ Skilled in OOP, demonstrated by 100% score in software engineering bootcamp and 
 - 🌱 I’m currently learning **Python, Django, MongoDB, and HTML**
 - 🌐 Personal website: [siwhelan.dev](https://siwhelan.dev/)
 - ✍️ I regularly write articles on [dev.to](https://dev.to/siwhelan) 
-- 🔨 I’m currently working on [stockControl](https://github.com/siwhelan/stockControl)
 - 📫 How to reach me: **simon@swhelan.dev**
 - ⚡ Fun fact: **Digital music producer with tracks available on all major streaming platforms!**
 
