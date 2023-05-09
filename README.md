@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Simon Whelan</h1>
 
-### A highly motivated and experienced professional seeking a Junior Software Engineer role. A creative problem solver constantly seeking new perspectives and innovative solutions, with an inherent ability to work efficiently and think outside the box. 
+### A highly motivated and experienced professional seeking a Software / DevOps Engineer role. A creative problem solver constantly seeking new perspectives and innovative solutions, with an inherent ability to work efficiently and think outside the box. 
 ---
 Skilled in OOP, demonstrated by 100% score in software engineering bootcamp and 2 years of self-taught experience. Proficient in developing and evaluating code in a wide range of front and back-end technologies.
 
@@ -13,8 +13,7 @@ Skilled in OOP, demonstrated by 100% score in software engineering bootcamp and 
 
 <img src="https://komarev.com/ghpvc/?username=siwhelan&label=Profile%20views&color=0e75b6&style=flat" alt="siwhelan" />
 
-- 🎓 I’m currently studying at [HyperionDev.com](https://www.hyperiondev.com/)
-- 🌱 I’m currently learning **Python, Django, MongoDB, and HTML**
+- 🎓 I’ve recently graduated from [HyperionDev.com](https://www.hyperiondev.com/) and [Imperial College London](https://www.imperial.ac.uk/)
 - 🌐 Personal website: [siwhelan.dev](https://siwhelan.dev/)
 - ✍️ I regularly write articles on [dev.to](https://dev.to/siwhelan) 
 - 📫 How to reach me: **simon@swhelan.dev**
