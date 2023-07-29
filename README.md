@@ -33,7 +33,7 @@ Skilled in OOP, demonstrated by 100% score in an Imperial College London certifi
 [linkedin]: https://linkedin.com/in/simon-whelan-053512256
 [twitter]: https://twitter.com/siwhelan
 [devto]: https://dev.to/siwhelan
-[youtube]: [https://www.youtube.com/c/si-zb7ni](https://www.youtube.com/channel/UCOXPVsbYQbR5gMxRLKpD41A)
+[youtube]: https://www.youtube.com/channel/UCOXPVsbYQbR5gMxRLKpD41A
 
 
 <br />
