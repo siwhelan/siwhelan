@@ -2,24 +2,31 @@
 
 <h1>Hi 👋, I'm Simon Whelan</h1>
 
-### A highly motivated and experienced professional seeking a Software / DevOps Engineer role. A creative problem solver constantly seeking new perspectives and innovative solutions, with an inherent ability to work efficiently and think outside the box. 
+### Former Executive Chef turned Developer
+### Currently undertaking a Software Engineering Apprenticeship at DWP Digital.
+### As a highly motivated and seasoned professional, I possess a natural ability to work efficiently and think outside the box.
+
 ---
-Skilled in OOP, demonstrated by 100% score in an Imperial College London certified software engineering bootcamp and 2 years of self-taught experience. Proficient in developing and evaluating code in a wide range of front and back-end technologies.
+
+With a strong foundation in OOP, showcased by a perfect score at an Imperial College London-certified software engineering bootcamp, I bring 2+ years of rigorous self-taught expertise to the table. I have honed my skills in a diverse array of front and back-end technologies spanning Software, DevOps and CyberSecurity.
 
 </div>
 
 <br />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=siwhelan&label=Profile%20views&color=0e75b6&style=flat" alt="siwhelan" />
+</div>
+
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=siwhelan&label=Profile%20views&color=0e75b6&style=flat" alt="siwhelan" />
-
-- 🎓 I’ve recently graduated from [HyperionDev.com](https://www.hyperiondev.com/) and [Imperial College London](https://www.imperial.ac.uk/)
-- 🌐 Personal website: [siwhelan.dev](https://siwhelan.dev/)
-- ✍️ I regularly write articles on [dev.to](https://dev.to/siwhelan) 
-- 📫 How to reach me: **simon@swhelan.dev**
+- 🎓 Alumni of [HyperionDev.com](https://www.hyperiondev.com/) and [Imperial College London](https://www.imperial.ac.uk/)
+- 🛠️ Now shaping the digital future at [DWP Digital](https://www.dwpdigital.blog.gov.uk/) 🌐
+- 🌐 Visit me at: [siwhelan.dev](https://siwhelan.dev/)
+- ✍️ Read occasional articles/tutorials on [dev.to](https://dev.to/siwhelan)
+- 📫 Drop me a line: **simon@swhelan.dev**
 - ⚡ Fun fact: **Digital music producer with tracks available on all major streaming platforms!**
 
-<br />
 <br />
 
 ### Connect/Content:
@@ -27,21 +34,15 @@ Skilled in OOP, demonstrated by 100% score in an Imperial College London certifi
 [<img align="left" alt="LinkedIn" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="dev.to" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />][devto]
 [<img align="left" alt="YouTube" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
-
-
-[linkedin]: https://linkedin.com/in/simon-whelan-053512256
-[twitter]: https://twitter.com/siwhelan
-[devto]: https://dev.to/siwhelan
-[youtube]: https://www.youtube.com/channel/UCOXPVsbYQbR5gMxRLKpD41A
-
 
 <br />
 <br />
 
 ### Languages and Tools:
+
 <div>
 <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" />
+<img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
 <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
 <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" />
@@ -53,14 +54,20 @@ Skilled in OOP, demonstrated by 100% score in an Imperial College London certifi
 <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
 </div>
 
+<br />
 
-<br />
-<br />
-  
 ### GitHub Stats:
 
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwhelan&show_icons=true&theme=default)
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=siwhelan&show_icons=true&theme=default" alt="Simon's GitHub stats" />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siwhelan&show_icons=true&locale=en&layout=compact" alt="siwhelan" />
-</p>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=siwhelan&show_icons=true&locale=en&layout=compact" alt="siwhelan" />
+</div>
+
+[linkedin]: https://linkedin.com/in/simon-whelan-053512256
+[twitter]: https://twitter.com/siwhelan
+[devto]: https://dev.to/siwhelan
+[youtube]: https://www.youtube.com/channel/UCOXPVsbYQbR5gMxRLKpD41A
+
