@@ -3,12 +3,12 @@
 <h1>Hi 👋, I'm Simon Whelan</h1>
 
 ### Former Executive Chef turned Developer
-### Currently undertaking a Software Engineering Apprenticeship at DWP Digital.
+### Currently working as a Software Engineer at DWP Digital.
 ### As a highly motivated and seasoned professional, I possess a natural ability to work efficiently and think outside the box.
 
 ---
 
-With a strong foundation in OOP, showcased by a perfect score at an Imperial College London-certified software engineering bootcamp, I bring 2+ years of rigorous self-taught expertise to the table. I have honed my skills in a diverse array of front and back-end technologies spanning Software, DevOps and CyberSecurity.
+With a strong foundation in OOP, showcased by a perfect score at an Imperial College London-certified software engineering course, I bring several years of rigorous self-taught expertise to the table. I have honed my skills in a diverse array of front and back-end technologies spanning Software, DevOps and CyberSecurity.
 
 </div>
 
