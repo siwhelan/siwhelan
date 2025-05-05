@@ -22,7 +22,6 @@ With a strong foundation in OOP, showcased by a perfect score at an Imperial Col
 
 - 🎓 Alumni of [HyperionDev.com](https://www.hyperiondev.com/) and [Imperial College London](https://www.imperial.ac.uk/)
 - 🛠️ Now shaping the digital future at [DWP Digital](https://www.dwpdigital.blog.gov.uk/) 🌐
-- 🌐 Visit me at: [siwhelan.dev](https://siwhelan.dev/)
 - ✍️ Read occasional articles/tutorials on [dev.to](https://dev.to/siwhelan) and [Linked In](https://www.linkedin.com/in/simon-whelan-053512256/)
 - 📫 Drop me a line: **simon@swhelan.dev**
 - ⚡ Fun fact: **Digital music producer with tracks available on all major streaming platforms!**
